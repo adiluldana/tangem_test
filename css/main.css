@@ -37,15 +37,21 @@ body {
 }
 .top_banner .top_banner_content .top_banner_content_title {
   color: #fff;
+  font-weight: bold;
+}
+.top_banner .top_banner_content .top_banner_content_title span {
+  font-weight: 400;
 }
 .top_banner .top_banner_content .top_banner_content_subtitle {
   color: #D7A830;
+  font-weight: bold;
 }
 .top_banner .top_banner_content .top_banner_content_text {
   color: #fff;
-  font-weight: 100;
+  font-weight: 400;
 }
 .top_banner .top_banner_content .top_banner_content_text span.orange {
+  font-weight: bold;
   color: #D7A830;
 }
 .top_banner .top_banner_buttons {
